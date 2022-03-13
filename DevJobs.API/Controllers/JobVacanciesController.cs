@@ -3,7 +3,7 @@ using DevJobs.API.Entities;
 using DevJobs.API.Models;
 using DevJobs.API.Persistence;
 using Microsoft.EntityFrameworkCore;
-
+using DevJobs.API.Persistence.Repositories;
 
 namespace DevJobs.API.Controllers
 {
