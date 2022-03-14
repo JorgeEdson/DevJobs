@@ -4,6 +4,7 @@ using DevJobs.API.Models;
 using DevJobs.API.Persistence;
 using Microsoft.EntityFrameworkCore;
 using DevJobs.API.Persistence.Repositories;
+using Serilog;
 
 namespace DevJobs.API.Controllers
 {
